@@ -1,6 +1,6 @@
 {
   "name": "hkt-land",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Utilities for composing complex type-level operations",
   "main": "./dist/index.js",
   "scripts": {

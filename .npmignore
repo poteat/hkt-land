@@ -1,0 +1,9 @@
+./src/type-tests
+./dist/type-tests
+./dist/jest.config.js
+./dist/jest.types.config.js
+jest.config.ts
+jest.types.config.ts
+tsconfig.json
+.npmignore
+.gitignore

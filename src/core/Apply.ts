@@ -1,5 +1,5 @@
 import { HKT } from "./HKT";
-import { ParameterOfHKT } from "./utility/ParameterOfHKT";
+import { ParameterOfHKT } from "./utility/hkt/ParameterOfHKT";
 
 /**
  * Apply the mapping function to the given input type. This works off of the

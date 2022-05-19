@@ -1,8 +1,8 @@
 import { expectType } from "tsd-lite";
 
-import { ParameterOfHKT } from "../../../src/core/utility/ParameterOfHKT";
-import { TestIdentityHKT } from "../../__utils__/test-hkts/TestIdentityHKT";
-import { TestPushHKT } from "../../__utils__/test-hkts/TestPushHKT";
+import { ParameterOfHKT } from "../../../../src/core/utility/hkt/ParameterOfHKT";
+import { TestIdentityHKT } from "../../../__utils__/test-hkts/TestIdentityHKT";
+import { TestPushHKT } from "../../../__utils__/test-hkts/TestPushHKT";
 
 describe("ParameterOfHKT", () => {
   it("extracts narrow parameter types", () => {

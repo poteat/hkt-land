@@ -1,4 +1,5 @@
 import { GenericFunction } from "./generic/GenericFunction";
+import { Assume } from "./utility/Assume";
 
 /**
  * A wrapper that encodes a parameterized type, i.e. whereby the encoded mapping

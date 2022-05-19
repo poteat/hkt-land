@@ -1,5 +1,5 @@
-import { HKT } from "../HKT";
-import { Assume } from "./Assume";
+import { HKT } from "../../HKT";
+import { Assume } from "../Assume";
 
 /**
  * Given a HKT, determine the parameter type of the HKT, i.e. the type which all
